@@ -1,4 +1,6 @@
 Repository containing scripts for Kaggle competitions
 
-Author: Shoaib Ahmed Siddiqui
-Email: m.shoaib_ahmed@hotmail.com
+MNIST: Kaggle MNIST Challange 
+
+Author: Shoaib Ahmed Siddiqui 
+Email: m.shoaib_ahmed@hotmail.com 
